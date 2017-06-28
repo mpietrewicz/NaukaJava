@@ -12,4 +12,14 @@ public class Customer {
         this.imie = imie;
         this.iloscPieniedzy = iloscPieniedzy;
     }
+
+    public void get(Rose rose) {
+    }
+    public void get(Peony peony) {
+    }
+    public void get(Freesia freesia) {
+    }
+    public void get(Lilac lilac) {
+    }
+
 }
