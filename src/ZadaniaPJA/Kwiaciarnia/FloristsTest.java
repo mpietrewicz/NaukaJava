@@ -13,6 +13,8 @@ public class FloristsTest {
         pl.put("bez", 12.0);
         pl.put("piwonia", 8.0);
 
+        // Przychodzi klient janek. Ma 200 zł
+        Customer janek = new Customer("Janek", 200);
 
     }
 }
